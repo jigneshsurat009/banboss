@@ -1,7 +1,7 @@
 import os
 
-API_ID = int(os.environ.get("API_ID", "28867109"))
-API_HASH = os.environ.get("API_HASH", "4324480d46d2b4a14daa7c93755703f2")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7968892213:AAFIEqpnynmHxQPwC1PeAK-zB9eGg_bjfbI")
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://boychat960:lpFYrAe8B37VnMg5@cluster0.0u1ugsv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+API_ID = int(os.environ.get("API_ID", "15964777"))
+API_HASH = os.environ.get("API_HASH", "ef448f85b780cdf26f8ffe390a5d8262")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7546347555:AAECQ3rG7QtUL095MYChHuyf1DmjA__QGhc")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://thembatrader:XxNVBIV8yq2YdjsP@cluster0.jno70em.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 OWNER_ID = int(os.environ.get("OWNER_ID", "944358553"))
